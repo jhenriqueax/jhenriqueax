@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&width=435&lines=Hi%2C+my+name+is+Jo%C3%A3o+Henrique.;I'm+from+Brasil%2C+Campina+Grande-PB.;I+study+science+computer+at+UFCG.;++Be+welcome+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFBF&width=435&lines=Hi%2C+my+name+is+Jo%C3%A3o+Henrique.;I'm+from+Brasil%2C+Campina+Grande-PB.;I+study+computer+science+at+UFCG.;++Be+welcome+%3A)" alt="Typing SVG" /></a>
 
  
  ![jhenrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhenriqueax&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117)
